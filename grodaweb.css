@@ -19,6 +19,10 @@ img {
 }
 
 #security-news {
-    background-color: lightgray;
+    background-color: rgb(163, 163, 163);
     border-style: solid;
+}
+
+#top {
+    size: 30%
 }
